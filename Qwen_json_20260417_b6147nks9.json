@@ -1,0 +1,15 @@
+{
+  "name": "TURYAP QUEEN LeadHunter",
+  "short_name": "TURYAP Queen",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#0047AB",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMTAwIj48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHg9IjcwIiB5PSIxMCIgZmlsbD0iIzAwNDdBQiIvPjxwYXRoIGQ9Ik04MCAyMCBMOTUgMzUgTDExMCAyMCBNODAgNTAgTDk1IDM1IEwxMTAgNTAgTTgwIDUwIEw5NSA2NSBMMTEwIDUwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjUiIGZpbGw9Im5vbmUiLz48dGV4dCB4PSIxMDAiIHk9Ijk1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMjQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDA0N0FCIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5UVVJZQVAgUVVFRU48L3RleHQ+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
